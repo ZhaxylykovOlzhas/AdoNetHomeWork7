@@ -1,0 +1,12 @@
+C:\Users\ЖаксылыковО\Desktop\EntityFHomeWork-master\EFHomeWork\EFHomeWork\bin\Debug\EFHomeWork.exe.config
+C:\Users\ЖаксылыковО\Desktop\EntityFHomeWork-master\EFHomeWork\EFHomeWork\bin\Debug\EFHomeWork.exe
+C:\Users\ЖаксылыковО\Desktop\EntityFHomeWork-master\EFHomeWork\EFHomeWork\bin\Debug\EFHomeWork.pdb
+C:\Users\ЖаксылыковО\Desktop\EntityFHomeWork-master\EFHomeWork\EFHomeWork\bin\Debug\EntityFramework.dll
+C:\Users\ЖаксылыковО\Desktop\EntityFHomeWork-master\EFHomeWork\EFHomeWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ЖаксылыковО\Desktop\EntityFHomeWork-master\EFHomeWork\EFHomeWork\bin\Debug\EntityFramework.xml
+C:\Users\ЖаксылыковО\Desktop\EntityFHomeWork-master\EFHomeWork\EFHomeWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ЖаксылыковО\Desktop\EntityFHomeWork-master\EFHomeWork\EFHomeWork\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ЖаксылыковО\Desktop\EntityFHomeWork-master\EFHomeWork\EFHomeWork\obj\Debug\AdoNetHomeWork7.csproj.CoreCompileInputs.cache
+C:\Users\ЖаксылыковО\Desktop\EntityFHomeWork-master\EFHomeWork\EFHomeWork\obj\Debug\AdoNetHomeWork7.csproj.CopyComplete
+C:\Users\ЖаксылыковО\Desktop\EntityFHomeWork-master\EFHomeWork\EFHomeWork\obj\Debug\EFHomeWork.exe
+C:\Users\ЖаксылыковО\Desktop\EntityFHomeWork-master\EFHomeWork\EFHomeWork\obj\Debug\EFHomeWork.pdb
